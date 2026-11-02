@@ -175,6 +175,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="UnitTests-lab-06.1-it.cpp" />
+    <ClCompile Include="UnitTests-lab-06.1-rec.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -182,6 +183,9 @@
   <ItemGroup>
     <ProjectReference Include="..\Lab-06.1 it\Lab-06.1 it.vcxproj">
       <Project>{03b880b1-4672-41a3-811a-91fd7cbbb8ae}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\Lab-06.1 rec\Lab-06.1 rec.vcxproj">
+      <Project>{efc16dd7-d72b-45dc-a497-209e54663e47}</Project>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
