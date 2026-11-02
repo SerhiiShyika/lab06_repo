@@ -1,0 +1,51 @@
+# Visual Studio user and workspace files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio C++ build output
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+[Oo]ut/
+x64/
+Win32/
+
+# Intermediate compiler and linker files
+*.obj
+*.o
+*.iobj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.res
+*.pch
+*.ipch
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# Test and coverage output
+TestResults/
+*.trx
+coverage/
+
+# Generated files
+*.generated.h
+*.cache
+*.log
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# OS files
+.DS_Store
+Thumbs.db
