@@ -19,4 +19,8 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="UnitTests-lab6\UnitTests-lab6.vcxproj" />
+    <None Include="UnitTests-lab6\UnitTests-lab6.vcxproj.filters" />
+  </ItemGroup>
 </Project>
