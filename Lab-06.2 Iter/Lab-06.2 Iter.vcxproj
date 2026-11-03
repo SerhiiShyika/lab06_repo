@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d16d9109-cfa7-47bc-9717-5ff30327f434}</ProjectGuid>
+    <ProjectGuid>{3AB43D4A-AF82-B082-79DE-1DC7C2E788BD}</ProjectGuid>
     <RootNamespace>Lab062Iter</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
